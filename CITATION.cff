@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Eckert"
+    given-names: "Jordan"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+    affiliation: "Department of Mathematics & Statistics, Auburn University"
+    email: "jpe0018@auburn.edu"
+  - family-names: "Ceyhan"
+    given-names: "Elvan"
+    affiliation: "Department of Mathematics & Statistics, Auburn University"
+    email: "ceyhan@auburn.edu"
+  - family-names: "Schenck"
+    given-names: "Henry"
+    affiliation: "Department of Mathematics & Statistics, Auburn University"
+    email: "hks0015@auburn.edu"
+title: "Topological Prototype Selection (TPS) - Bifiltration Implementation"
+version: 1.0.0
+date-released: 2025-11-06
+url: "https://github.com/yourusername/tps-bifiltration"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Eckert"
+      given-names: "Jordan"
+    - family-names: "Ceyhan"
+      given-names: "Elvan"
+    - family-names: "Schenck"
+      given-names: "Henry"
+  title: "Prototype Selection Using Topological Data Analysis"
+  year: 2025
+  journal: "Preprint"
+  url: "https://arxiv.org/abs/xxxx.xxxxx"
+keywords:
+  - topological data analysis
+  - persistent homology
+  - prototype selection
+  - machine learning
+  - bifiltration
+  - data reduction
+license: GPL-3.0
